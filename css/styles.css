@@ -1,0 +1,78 @@
+body {
+    font-size: 100%;
+    font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', serif;
+    background-color: whitesmoke ;
+    background-size: cover;
+}
+
+.parrafo{
+    background-color:chocolate;
+    padding: 10px;
+    margin-right: 10vw;
+    border-radius: 5px;
+}
+
+#contenedor1{
+
+	background-color: tomato;
+	width: auto;
+	height: auto;
+	display: inline-block;
+	padding: 20px;
+	border-radius: 5px;
+}
+#botones {
+
+	background-color: #1767e8;
+	padding: 5px;
+	text-align: center;
+	border-radius: 3px;
+
+}
+
+#numeros{
+	 text-align: center;
+	 padding: 2px;
+
+}
+
+.number{
+
+	margin: 2px;
+	padding: 8px;
+	background-color: #F5DA81;
+}
+
+hr {
+
+	border-color: blue;
+}
+
+#back{
+
+	margin-top: 10px;
+	padding: 5px;
+}
+
+h3{
+
+	display: inline-block;
+	background-color: blue;
+	padding: 10px;
+	margin: 5px;
+	margin-top: 10px;
+	border-radius: 45px;
+	color: yellow;
+}
+#paypal{
+
+	display: block;
+	padding: 10px;
+	text-align: center;
+	font-size: 50px;
+	color: white;
+}
+#passwordtxt{
+
+	border-radius: 5px;
+}
