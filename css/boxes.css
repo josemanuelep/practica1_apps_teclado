@@ -1,0 +1,73 @@
+.face {
+
+    background-color: bisque;
+    width: 350px;
+    height: 350px;
+    display: block;
+
+  
+
+}
+.eye{
+
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: relative;
+   
+    
+}
+#leftEye{
+
+    top: 20px;
+    left: 60px;
+}
+#rightEye{
+
+    top: 70px;
+    left: 240px;
+
+}
+.nose{
+  
+    background-color: chocolate;
+    height: 20px;
+    position: relative;
+    height: 50px;
+    width: 30px;
+    top: 60px;
+    left: 154px;
+}
+
+.mount{
+
+    background-color: chocolate;
+    height: 20px;
+    position: relative;
+    height: 50px;
+    width: 100px;
+    top: 124px;
+    left: 120px;
+
+    
+}
+
+.hide{
+
+    display: none;
+}
+.slides{
+
+    width: 350px;
+    height: 350px;
+
+}
+#slide1{
+    background-color: red;
+
+}
+#slide2{
+    background-color: orange;
+
+}
